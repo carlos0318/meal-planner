@@ -8,7 +8,6 @@ Meal Planner is an application designed to help users efficiently plan their mea
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
-- [API](#api)
 
 ## Features
 
@@ -72,3 +71,7 @@ npm start
 1. Open the application on your device or emulator.
 2. Use the interface to create menus and add items.
 3. You can copy menus from one day to another and update items as needed.
+
+
+![Captura de pantalla 2024-10-07 a la(s) 7 08 12 p m](https://github.com/user-attachments/assets/ede0da4e-25a3-49a0-b238-c6c88a861312)
+![Captura de pantalla 2024-10-07 a la(s) 7 08 19 p m](https://github.com/user-attachments/assets/fd7095fb-3eed-40d3-8bab-4ca4418262bb)
